@@ -28,7 +28,7 @@
 - 希望可以找到自己的soulmate。
 - 想拥有一片陌生的广场并披上面具随意的呐喊。
 ##### 7.需求分析+产品特色功能
-<table> <tr> <td><center><strong>主体</center></td> <td colspan="5"><center><strong>场景</td></center> </tr> <tr><td><center>目标用户</center></td> <td colspan="5"><center>想通过社交软件精神交友，并且交友质量高</center></td> </tr><td><center><strong>需求</center></td><td><center><strong>产生的原因</center></td><td><center><strong>解决的方式</center></td><td><center><strong>产品特色功能</center></td><td><center><strong>产品核心立足点</center></td> <tr><td>不愿意透露个人资料的情况下交友</td><td>1.注重个人隐私</br>2.避免看脸交友</td><td>
+<table> <tr> <td><center><strong>主体</center></td> <td colspan="5"><center><strong>场景</td></center> </tr> <tr><td><center>目标用户</center></td> <td colspan="5"><center>想通过社交软件精神交友，并且交友质量高</center></td> </tr><td><center><strong>需求</center></td><td><center><strong>产生的原因</center></td><td><center><strong>解决的功能</center></td><td><center><strong>产品特色功能</center></td><td><center><strong>产品核心立足点</center></td> <tr><td>不愿意透露个人资料的情况下交友</td><td>1.注重个人隐私</br>2.避免看脸交友</td><td>
 1.统一头像</br>2.用户可自行隐藏个人资料</td><td rowspan="6">
 1. 通过音乐口味测试、听歌记录分析用户性格，从而匹配精神上音乐口味相似的好友。</br></br>
 2.有一片可匿名的广场，给予用户宣泄心中压力。</td><td rowspan="6">
