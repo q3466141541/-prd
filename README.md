@@ -42,6 +42,6 @@
 - 有一片可匿名的广场，给予用户宣泄心中压力。
 # 二、产品架构以及业务流程
 ##### 1.功能架构图
-![image](https://github.com/q3466141541/-prd/blob/master/%E4%BA%A7%E5%93%81%E5%8A%9F%E8%83%BD.png)
+![avatar](https://github.com/q3466141541/-prd/blob/master/%E4%BA%A7%E5%93%81%E5%8A%9F%E8%83%BD.png)
 ##### 2.信息架构图
-![image](https://github.com/q3466141541/-prd/blob/master/%E4%BF%A1%E6%81%AF%E6%9E%B6%E6%9E%84.png)
+![avatar](https://github.com/q3466141541/-prd/blob/master/%E4%BF%A1%E6%81%AF%E6%9E%B6%E6%9E%84.png)
