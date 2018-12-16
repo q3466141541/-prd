@@ -43,10 +43,13 @@
 <tr><td>想在陌生的广场吐槽，不想被人认出</td><td>现代现实生活压力大</td><td>提供陌生广场，可匿名发帖，宣泄个人情绪</td></tr>
 </table> 
 
-# 二、产品架构以及业务流程
+# 二、产品架构以及使用流程图
 
 ##### 1.功能架构图
 ![avatar](https://github.com/q3466141541/-prd/blob/master/%E4%BA%A7%E5%93%81%E5%8A%9F%E8%83%BD.png)
 
 ##### 2.信息架构图
 ![avatar](https://github.com/q3466141541/-prd/blob/master/%E4%BF%A1%E6%81%AF%E6%9E%B6%E6%9E%84.png)
+
+##### 3.使用流程图
+![avatar](https://github.com/q3466141541/-prd/blob/master/%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.png)
