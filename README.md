@@ -27,9 +27,14 @@
 - 想要有相似的音乐口味、相似的性格的朋友，达到三观上的精神沟通
 - 希望可以找到自己的soulmate。
 - 想拥有一片陌生的广场并披上面具随意的呐喊。
-##### 7.需求分析
-<table> <tr> <td><center><strong>主体</center></td> <td colspan="2"><center><strong>场景</td></center> </tr> <tr><td>目标用户</td> <td colspan="2">想通过社交软件精神交友，并且交友质量高</td> </tr><td><center><strong>需求</center></td><td><center><strong>产生的原因</center></td><td><center><strong>解决的方式</center></td> <tr><td>不愿意透露个人资料的情况下交友</td><td>1.注重个人隐私</br>2.避免看脸交友</td><td>
-1.统一头像</br>2.用户可自行隐藏个人资料</td>
+##### 7.需求分析+产品特色功能
+<table> <tr> <td><center><strong>主体</center></td> <td colspan="5"><center><strong>场景</td></center> </tr> <tr><td><center>目标用户</center></td> <td colspan="5"><center>想通过社交软件精神交友，并且交友质量高</center></td> </tr><td><center><strong>需求</center></td><td><center><strong>产生的原因</center></td><td><center><strong>解决的方式</center></td><td><center><strong>产品特色功能</center></td><td><center><strong>产品核心立足点</center></td> <tr><td>不愿意透露个人资料的情况下交友</td><td>1.注重个人隐私</br>2.避免看脸交友</td><td>
+1.统一头像</br>2.用户可自行隐藏个人资料</td><td rowspan="6">
+1. 通过音乐口味测试、听歌记录分析用户性格，从而匹配精神上音乐口味相似的好友。</br></br>
+2.有一片可匿名的广场，给予用户宣泄心中压力。</td><td rowspan="6">
+1.让交友不再单纯看脸，我们精神交友。</br></br>
+2.让更多性格相近、音乐口味相似的朋友走到一起。</br></br>
+3. 给每一个人都提供一个宣泄内心、展示自我的平台。</td>
 </tr>
 <tr><td>对音乐有一定的追求</td><td>大家越来越重视精神享受</td><td>匹配相似音乐口味的群体，在听歌的同时可以精神交友</td></tr>
 <td>寻找灵魂伴侣</td><td>想要精神上的高质量沟通</td><td>1.提供音乐口味测试题，得出用户性格</br>2.根据听歌历史得出用户音乐口味</td>
@@ -37,9 +42,6 @@
 <tr><td>交到新朋友，却没有耐心继续沟通</td><td>三观不合，口味不和</td><td>提供二者共同的音乐话题，精神共鸣沟通</td></tr>
 <tr><td>想在陌生的广场吐槽，不想被人认出</td><td>现代现实生活压力大</td><td>提供陌生广场，可匿名发帖，宣泄个人情绪</td></tr>
 </table> 
-##### 8.产品特色功能
-- 通过音乐口味测试、听歌记录分析用户性格，从而匹配精神上音乐口味相似的好友。
-- 有一片可匿名的广场，给予用户宣泄心中压力。
 
 # 二、产品架构以及业务流程
 
