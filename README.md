@@ -53,3 +53,7 @@
 
 ##### 3.使用流程图
 ![avatar](https://github.com/q3466141541/-prd/blob/master/%E4%BD%BF%E7%94%A8%E6%B5%81%E7%A8%8B.png)
+
+##### 4.用户体系架构图
+![avatar](https://github.com/q3466141541/-prd/blob/master/%E7%94%A8%E6%88%B7%E4%BD%93%E7%B3%BB4.png)
+在线链接[link](http://app.liuchengtu.com/#R569f729edc2ef1c618794ae46d3e4d0b)
